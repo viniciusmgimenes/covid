@@ -16,3 +16,9 @@ git config --global user.email fulanodetal@exemplo.br
  > criar arquivo ignore - touch .gitignore (comand)
  > dentro do arquivo criado escrever venv/ (pode ser na tela do vscode)
  > salvar no vscode comando cotrls
+
+- criar arquivo notebook.ipynb
+ > criar diretamente no vscode
+
+- consumir os dados do covid
+ > dentro do notebook subir os dados que serão analisados
